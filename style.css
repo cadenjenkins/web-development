@@ -42,12 +42,13 @@ footer{
   background-color:black;
   color:white;
 }
-
- @media only screen and (max-width: 375px) {
-
-img{
-  display:flex;
-  flex-direction: row;
+.image{
+  justify-content:center;
 }
 
+ @media only screen and (min-width: 375px) {
+.image{
+   display:flex;
+  flex-direction:row-reverse;
+}
 }
