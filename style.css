@@ -1,0 +1,53 @@
+body{
+  background-color: #FFEBCD;
+}
+nav a
+{
+	padding-right:25px;
+	padding-left:25px;
+	display: inline;
+  text-decoration:none;
+}
+a:link, a:visited {
+	color:brown;
+}
+nav a:hover
+{
+	background-color:#DEB887;
+}
+
+section{
+  text-align:center;
+  background-color:#DEB887;
+
+}
+
+div{  text-align:center;}
+
+img{
+  height:600px;
+  width:1000px;
+}
+h1{
+  background-color:#DEB887;
+  font-family: 'Open Sans', sans-serif;
+}
+h2{
+  font-family: 'Open Sans', sans-serif;
+}
+p{
+  font-family: 'PT Sans', sans-serif;
+}
+footer{
+  background-color:black;
+  color:white;
+}
+
+ @media only screen and (max-width: 375px) {
+
+img{
+  display:flex;
+  flex-direction: row;
+}
+
+}
