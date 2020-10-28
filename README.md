@@ -1,2 +1,2 @@
-# Cadden Jenkins Cody Osborne
+# Cadden Jenkins Cody Osborne Kenneth Cottrell
 ## Responsive Travel
