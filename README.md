@@ -1,2 +1,2 @@
-# RESPONSIVE TRAVEL
-caden jenkins
+# Cadden Jenkins Cody Osborne
+## Responsive Travel
